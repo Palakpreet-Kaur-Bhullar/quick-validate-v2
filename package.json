@@ -5,9 +5,33 @@
   "license": "MIT",
   "type": "module",
   "main": "./src/index.js",
-  "exports": { ".": "./src/index.js" },
-  "files": ["src", "README.md", "LICENSE"],
-  "scripts": { "test": "node --test", "demo": "node demo/server.js" },
-  "engines": { "node": ">=18" },
-  "keywords": ["validation", "validator", "javascript", "forms", "email", "india", "npm"]
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "demo": "node demo/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "javascript",
+    "forms",
+    "email",
+    "india",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": ""
 }

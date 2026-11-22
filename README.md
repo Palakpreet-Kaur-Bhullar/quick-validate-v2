@@ -1,5 +1,9 @@
 # quick-validate
 
+Published Package Link: https://www.npmjs.com/package/@palakpreet/quick-validate
+Demo of Usage : https://github.com/Palakpreet-Kaur-Bhullar/quick-validate-v2-demo/tree/main
+Live Demo URL : https://quick-validate-v2-demo.onrender.com/
+
 **Lightweight, dependency-free JavaScript validation for common inputs and forms.**
 
 `@palakpreet/quick-validate` is a collection of reusable JavaScript validation helpers designed to make validating user input simple, consistent, and easy to integrate into applications.
